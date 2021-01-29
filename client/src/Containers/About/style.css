@@ -1,0 +1,18 @@
+.headshot {
+    width: 20%;
+    height: auto;
+    margin: 0 15px 0px 0;
+    border-radius: 50%;
+    float: left;
+}
+
+.published {
+    color: rgb(66, 18, 143);
+    font-weight: 600;
+  }
+
+  .published:Hover {
+    font-weight: 600;
+    color: rgb(134, 62, 192);
+  }
+  
